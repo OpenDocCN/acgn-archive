@@ -2,7 +2,7 @@
 
 &zwj;
 
-* [在线阅读](https://acgn.apachecn.org)
+* [在线阅读](https://acgn.flygon.net)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 下载

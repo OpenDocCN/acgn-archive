@@ -1,5 +1,5 @@
 <!---
-title: 轻小说归档 2009~2013 BiliDrive 备份
+title: 轻小说 2009~2013 BiliDrive 备份
 date: 2013-12-31 23:59:59
 categories:
   - ACG
@@ -7,7 +7,7 @@ tags:
   - 轻小说
 --->
 
-# 轻小说归档 2009~2013 BiliDrive 备份
+# 轻小说 2009~2013 BiliDrive 备份
 
 ## 下载方式
 

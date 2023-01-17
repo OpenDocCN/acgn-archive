@@ -16,6 +16,7 @@
 	+   [轻小说汇总 2021 CDNDrive 备份 RC1](docs/lightnovel/lightnovel-2021-cdndrive-rc1.md)
 	+   [轻小说 2021 GIT 仓库备份](docs/lightnovel/lightnovel-2021-git.md)
 	+   [轻小说 2021 DockerHub 备份](docs/lightnovel/lightnovel-2021-docker.md)
+	+   [轻小说汇总 2021 百度秒传下载](docs/lightnovel/lightnovel-2021-miaochuan.md)
 	+   [轻小说汇总 2022 CDNDrive 备份 RC1](docs/lightnovel/lightnovel-2022-cdndrive-rc1.md)
 	+   [轻小说汇总 2022 百度秒传下载](docs/lightnovel/lightnovel-2022-miaochuan.md)
 +   日漫

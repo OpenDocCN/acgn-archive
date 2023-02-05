@@ -24,7 +24,7 @@
 	+   [轻小说 2022 百度秒传下载](docs/lightnovel/lightnovel-2022-miaochuan.md)
 +   日漫
 	+   [动漫之家 CDNDrive 备份（1）](docs/riman/dmzj1-cdndrive.md)
-	+   [动漫之家网盘备份（1）](docs/riman/dmzj1.md)
+	+   [动漫之家（一）百度秒传下载](docs/riman/dmzj1-miaochuan.md)
 	+   [动漫之家 CDNDrive 备份（2）](docs/riman/dmzj2-cdndrive.md)
 	+   [动漫之家网盘备份（2）](docs/riman/dmzj2.md)
 	+   [动漫之家 CDNDrive 备份（3）](docs/riman/dmzj3-cdndrive.md)

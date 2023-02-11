@@ -25,6 +25,8 @@
 	+   [动漫之家（4）百度秒传下载](docs/riman/dmzj4-miaochuan.md)
 	+   [动漫之家（5）CDNDrive 备份](docs/riman/dmzj5-cdndrive.md)
 	+   [动漫之家（5）百度秒传下载](docs/riman/dmzj5-miaochuan.md)
+	+   [动漫之家（6）CDNDrive 备份](docs/riman/dmzj6-cdndrive.md)
+	+   [动漫之家（6）百度秒传下载](docs/riman/dmzj6-miaochuan.md)
 +   韩漫
 	+   [韩漫大全 CDNDrive 备份（1）](docs/hanman/hmdq1-cdmdrive.md)
 	+   [韩漫大全网盘备份（1）](docs/hanman/hmdq1.md)

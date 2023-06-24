@@ -3,7 +3,6 @@
 &zwj;
 
 * [在线阅读](https://acgn.flygon.net)
-* [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 下载
 
@@ -15,13 +14,6 @@ docker run -tid -p <port>:80 apachecn0/acgn-archive
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
-
-```
-pip install acgn-archive
-acgn-archive <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
